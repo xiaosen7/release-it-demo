@@ -1,0 +1,15 @@
+{
+  "name": "release-it-demo",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "release": "release-it"
+  },
+  "keywords": [],
+  "author": "deployment <changeme1@yourcompany.com> (http://www.cdhx.top:8082/nexus/content/repositories/hxnpm/)",
+  "license": "ISC",
+  "dependencies": {
+    "release-it": "^15.6.0"
+  }
+}
